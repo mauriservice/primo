@@ -12,7 +12,7 @@ FUNCTION HDroidMain( lFirst )
       { " Login  dialog", {||LoginDlg()} }, { " Set hrb name", {||SetMod()} }, ;
       { " External hrb module", {||ExtMod()} } ;
    }
-   */  222222
+   */   ECCO CHE VA
 LOCAL aSamples := { ;
       { " Clienti ", {||dbfBrowse()} } ;
    }
