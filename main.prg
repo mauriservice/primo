@@ -12,10 +12,10 @@ FUNCTION HDroidMain( lFirst )
       { " Login  dialog", {||LoginDlg()} }, { " Set hrb name", {||SetMod()} }, ;
       { " External hrb module", {||ExtMod()} } ;
    }
-   */  DD
+   */  cIAO cOME VA 
 LOCAL aSamples := { ;
       { " Clienti ", {||dbfBrowse()} } ;
-   }
+   }  
    
    INIT STYLE oStyleN COLORS "#255779","#A6C0CD" ORIENT 1 CORNERS 8
    INIT STYLE oStyleP COLORS "#255779","#A6C0CD" ORIENT 6 CORNERS 8
