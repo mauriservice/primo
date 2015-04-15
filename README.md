@@ -1,2 +1,0 @@
-# primo
-Prima prova androd
